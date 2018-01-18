@@ -1,5 +1,7 @@
 # Swift设计模式 (iOS)
 
+> 本开源书 forked from [Swift设计模式 (iOS)](https://github.com/yourtion/SwiftDesignPatterns)，作者为 [yourtion](https://github.com/yourtion)，欢迎大家 star 原作者的 [repo](https://github.com/yourtion/SwiftDesignPatterns)，以便获得最新更新，谢谢！
+
 我们将会通过完成一个完整的应用，展示音乐专辑和专辑的相关信息来学习设计模式在 Swift 中的实现。
 
 通过这个应用，我们会接触一些 Cocoa 中常见的设计模式：
